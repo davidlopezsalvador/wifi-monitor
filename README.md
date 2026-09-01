@@ -2,6 +2,8 @@
 
 Real-time WiFi USB adapter monitor for Windows 11. Tracks connection status, signal strength, latency, speed, and disconnection causes.
 
+![WiFi USB Monitor](screenshot.png)
+
 ## Features
 
 - **Connection monitoring** — real-time status of WiFi USB adapter
